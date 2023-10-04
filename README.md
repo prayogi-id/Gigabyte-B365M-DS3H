@@ -29,3 +29,4 @@
 - https://dortania.github.io
 - https://www.insanelymac.com/
 - https://web.facebook.com/groups/hackintosh.indonesia
+![Screenshot 2023-10-01 at 23 06 25](https://github.com/prayogi-id/Gigabyte-B365M-DS3H/assets/16058727/9f80d6d5-f1a4-48c3-ae9e-5a4753a31054)
